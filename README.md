@@ -1,18 +1,16 @@
-<h1 align="center">Bonjour 👋, I'm Dhruvil Rathod</h1>
+<h1 align="center">G'day 👋, I'm Dhruvil Rathod</h1>
 <h3 align="center">Fullstack Developer</h3>
 <div align="center">
 
-🔭 Currently working at [Asite Solution](https://www.asite.com)
-
 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Nginx**
+
+📄 Know about my Skills and Experiences on [Portfolio](https://dhruvilrathod.me/)
 
 👨‍💻 All of my projects are available at [https://github.com/dhruvilrathod/](https://github.com/dhruvilrathod/)
 
 💬 Ask me about **Angular, NodeJS, ExpressJS, Three.js, NestJS**
 
 📫 How to reach me **dhruvilrathod2001@gmail.com**
-
-📄 Know about my experiences [Latest Resume](http://cloud.developerdevils.great-site.net/uploads/Dhruvil_Rathod_resume.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
