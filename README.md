@@ -1,8 +1,8 @@
 <h1 align="center">G'day 👋, I'm Dhruvil Rathod</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">AI Fullstack Developer</h3>
 <div align="center">
 
-🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Nginx**
+🌱 I’m currently learning **RAG, Agentic AI Orchestration, LLM Observability, MLOps & Infrastructure**
 
 📄 Know about my Skills and Experiences on [Portfolio](https://dhruvilrathod.me/)
 
